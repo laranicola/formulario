@@ -1,0 +1,15 @@
+.formulario{
+    background: hsl(216, 100%, 76%);
+    text-align: center;
+    height: 100%;
+    width: 50%;
+    display:flex ;
+    justify-content:center ;
+    align-items:center;
+    right: 250px;
+
+}
+    
+
+.quadrado{
+}
